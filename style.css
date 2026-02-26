@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, sans-serif;
     background-color: #3d6376;
@@ -26,19 +27,19 @@ body {
     background: white;
   }
   
-  li {
+  lif {
     display: flex;
     justify-content: space-between;
     padding: 10px;
     border-bottom: 1px solid #ddd;
   }
   
-  li.completed {
+  lif.completed {
     text-decoration: line-through;
     color: gray;
   }
   
-  li button {
+  button {
     background-color: #e55353;
     padding: 4px 8px;
   }
